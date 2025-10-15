@@ -1,0 +1,56 @@
+
+body{
+    background-color:#e8f6ff ; 
+    font-size:26px;
+    font-family:sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.image img{
+    height: 150px;
+
+}
+.introduction{
+    background-color: #fffbcd;
+    
+}
+.introduction h3{
+    color:blue;
+}
+
+.htmlbasics{
+    background-color: rgb(208, 252, 214);
+    
+}
+.htmlbasics h3{
+    color:rgb(104, 50, 41);
+}
+
+.cssbasics{
+    background-color: rgb(250, 215, 220);
+    
+}
+
+.cssbasics h3{
+    color:rgb(52, 102, 52)
+}
+
+h2{
+    text-decoration:underline;
+}
+.usefullinks{
+    background-color: #a7e1f5;
+    text-decoration-style:none;
+
+}
+h3{
+    text-decoration-style:bold;
+    
+}
+
+footer{
+    background-color: #c0c0c0;
+    color:#616161;
+    margin: 1px 1px 1px 1px;
+}
